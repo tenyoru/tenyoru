@@ -15,5 +15,5 @@
 [codeberg_badge]: https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=white
 [codeberg_link]: https://codeberg.org/tenyoru
 
-[site_badge]: https://img.shields.io/badge/Site-tenyoru.io-blue
+[site_badge]: https://img.shields.io/badge/Site-tenyoru.io-0b0a09?labelColor=e5b77e
 [site_link]: https://tenyoru.io
