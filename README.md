@@ -1,5 +1,5 @@
 <div align="center">
-![Soir Bleu](./images/soir_bleu.jpeg)
+<img src="./images/soir_bleu.jpeg" alt="Soir Bleu" width="350">
 
 <p align="center">Hello, I'm Tenyoru</p>
 
