@@ -5,19 +5,11 @@
 
 <p align="center">Hello, I'm Tenyoru</p>
 
-<a href="https://tenyoru.io">
-  <img src="https://img.shields.io/badge/Website-tenyoru.io-000000?style=flat&labelColor=ffffff&color=000000" alt="Website" height="28">
-</a>
-
-Find me on:
 [![GitHub][github_badge]][github_link]
 [![Codeberg][codeberg_badge]][codeberg_link]
-[![Mastodon][mastodon_badge]][mastodon_link]
-
-<p></p>
-
-Contact:
+[![Site][site_badge]][site_link]
 [![Matrix][matrix_badge]][matrix_link]
+[![Mastodon][mastodon_badge]][mastodon_link]
 
 </div>
 
@@ -30,7 +22,7 @@ Contact:
 [codeberg_badge]: https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=white
 [codeberg_link]: https://codeberg.org/tenyoru
 
-[site_badge]: https://img.shields.io/badge/Website-0b0a09?labelColor=e5b77e&logo=safari&logoColor=white
+[site_badge]: https://img.shields.io/badge/Website-tenyoru.io-000000?style=flat&labelColor=ffffff&color=000000
 [site_link]: https://tenyoru.io
 
 [matrix_badge]: https://img.shields.io/badge/Matrix-black?logo=matrix&logoColor=white
