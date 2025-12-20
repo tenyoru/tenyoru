@@ -10,7 +10,6 @@
 </a>
 
 Find me on:
-
 [![GitHub][github_badge]][github_link]
 [![Codeberg][codeberg_badge]][codeberg_link]
 [![Mastodon][mastodon_badge]][mastodon_link]
@@ -18,7 +17,6 @@ Find me on:
 <p></p>
 
 Contact:
-
 [![Matrix][matrix_badge]][matrix_link]
 
 </div>
