@@ -10,13 +10,13 @@
 [![Mastodon][mastodon_badge]][mastodon_link]
 
 </div>
-[github_badge]: https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white
+[github_badge]: https://img.shields.io/badge/@tenyoru-181717?logo=github&logoColor=white
 [github_link]: https://github.com/tenyoru
 
 [codeberg_badge]: https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=white
 [codeberg_link]: https://codeberg.org/tenyoru
 
-[site_badge]: https://img.shields.io/badge/Site-tenyoru.io-0b0a09?labelColor=e5b77e
+[site_badge]: https://img.shields.io/badge/Site-tenyoru.io-0b0a09?labelColor=e5b77e&logo=safari&logoColor=white
 [site_link]: https://tenyoru.io
 
 [matrix_badge]: https://img.shields.io/badge/@a:tenyoru.io-black?logo=matrix&logoColor=white
