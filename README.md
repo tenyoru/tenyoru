@@ -22,7 +22,7 @@
 [codeberg_badge]: https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=white
 [codeberg_link]: https://codeberg.org/tenyoru
 
-[site_badge]: https://img.shields.io/badge/Website-tenyoru.io-000000?style=flat&labelColor=ffffff&color=000000
+[site_badge]: https://img.shields.io/badge/site-tenyoru.io-000000?style=flat&labelColor=ffffff&color=000000
 [site_link]: https://tenyoru.io
 
 [matrix_badge]: https://img.shields.io/badge/Matrix-black?logo=matrix&logoColor=white
