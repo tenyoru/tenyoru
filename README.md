@@ -1,18 +1,28 @@
 <div align="center">
 <img src="./images/soir_bleu.jpeg" alt="Soir Bleu" width="350">
 
+<p></p>
+
 <p align="center">Hello, I'm Tenyoru</p>
 
 <a href="https://tenyoru.io">
   <img src="https://img.shields.io/badge/Website-tenyoru.io-000000?style=flat&labelColor=ffffff&color=000000" alt="Website" height="28">
 </a>
 
+Find me on:
+
 [![GitHub][github_badge]][github_link]
 [![Codeberg][codeberg_badge]][codeberg_link]
-[![Matrix][matrix_badge]][matrix_link]
 [![Mastodon][mastodon_badge]][mastodon_link]
 
+<p></p>
+
+Contact:
+
+[![Matrix][matrix_badge]][matrix_link]
+
 </div>
+
 
 
 
