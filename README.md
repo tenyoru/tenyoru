@@ -13,17 +13,17 @@
 
 
 
-[github_badge]: https://img.shields.io/badge/@tenyoru-181717?logo=github&logoColor=white
+[github_badge]: https://img.shields.io/badge/Github-181717?logo=github&logoColor=white
 [github_link]: https://github.com/tenyoru
 
 [codeberg_badge]: https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=white
 [codeberg_link]: https://codeberg.org/tenyoru
 
-[site_badge]: https://img.shields.io/badge/tenyoru.io-0b0a09?labelColor=e5b77e&logo=safari&logoColor=white
+[site_badge]: https://img.shields.io/badge/Site-0b0a09?labelColor=e5b77e&logo=safari&logoColor=white
 [site_link]: https://tenyoru.io
 
-[matrix_badge]: https://img.shields.io/badge/@a:tenyoru.io-black?logo=matrix&logoColor=white
+[matrix_badge]: https://img.shields.io/badge/Matrix-black?logo=matrix&logoColor=white
 [matrix_link]: https://matrix.to/#/@a:tenyoru.io
 
-[mastodon_badge]: https://img.shields.io/badge/@tenyoru-6364FF?logo=mastodon&logoColor=white
+[mastodon_badge]: https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=white
 [mastodon_link]: https://metalhead.club/@tenyoru
