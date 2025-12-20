@@ -7,10 +7,9 @@
 [![Codeberg][codeberg_badge]][codeberg_link]
 [![Website][site_badge]][site_link]
 [![Matrix][matrix_badge]][matrix_link]
+[![Mastodon][mastodon_badge]][mastodon_link]
 
 </div>
-
-<a rel="me" href="https://metalhead.club/@tenyoru">Mastodon</a>
 [github_badge]: https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white
 [github_link]: https://github.com/tenyoru
 
@@ -22,3 +21,6 @@
 
 [matrix_badge]: https://img.shields.io/badge/@a:tenyoru.io-black?logo=matrix&logoColor=white
 [matrix_link]: https://matrix.to/#/@a:tenyoru.io
+
+[mastodon_badge]: https://img.shields.io/badge/@tenyoru-6364FF?logo=mastodon&logoColor=white
+[mastodon_link]: https://metalhead.club/@tenyoru
