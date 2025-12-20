@@ -3,9 +3,12 @@
 
 <p align="center">Hello, I'm Tenyoru</p>
 
+<a href="https://tenyoru.io">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Website-tenyoru.io-0b0a09?style=for-the-badge&labelColor=e5b77e" alt="Website" height="40">
+</a>
+
 [![GitHub][github_badge]][github_link]
 [![Codeberg][codeberg_badge]][codeberg_link]
-[![Website][site_badge]][site_link]
 [![Matrix][matrix_badge]][matrix_link]
 [![Mastodon][mastodon_badge]][mastodon_link]
 
