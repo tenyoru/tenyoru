@@ -4,7 +4,7 @@
 <p align="center">Hello, I'm Tenyoru</p>
 
 <a href="https://tenyoru.io">
-  <img src="https://img.shields.io/badge/🌐_Visit_My_Website-tenyoru.io-0b0a09?style=for-the-badge&labelColor=e5b77e" alt="Website" height="40">
+  <img src="https://img.shields.io/badge/Website-tenyoru.io-e5b77e?style=flat&labelColor=2c2c2c&logoColor=white&logo=safari" alt="Website" height="28">
 </a>
 
 [![GitHub][github_badge]][github_link]
