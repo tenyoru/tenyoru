@@ -5,8 +5,8 @@
 
 <p align="center">Hello, I'm Tenyoru</p>
 
-[![GitHub][github_badge]][github_link]
 [![Codeberg][codeberg_badge]][codeberg_link]
+[![GitHub][github_badge]][github_link]
 [![Site][site_badge]][site_link]
 [![Matrix][matrix_badge]][matrix_link]
 [![Mastodon][mastodon_badge]][mastodon_link]
