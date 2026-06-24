@@ -24,5 +24,5 @@
 [bluesky_badge]: https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=white
 [bluesky_link]: https://bsky.app/profile/tenyoru.io
 
-[mail_badge]: https://img.shields.io/badge/mail@tenyoru.io-black?logo=maildotru&logoColor=white
+[mail_badge]: https://img.shields.io/badge/mail-black?logo=maildotru&logoColor=white
 [mail_link]: mailto:mail@tenyoru.io
